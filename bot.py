@@ -49,4 +49,4 @@ class ChatBot:
 
 
 chat_bot = ChatBot()
-chat_bot.run()тпв
+chat_bot.run()
